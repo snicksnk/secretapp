@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.property-moscow.secretapp",
+        "paths": ["/share_post/*", "share_story/*"]
+      }
+    ]
+  }
+}
